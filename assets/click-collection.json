@@ -5,7 +5,7 @@
 		"description": "Docusign Elastic Signing lets you capture consent to standard agreement terms with a single click: terms and conditions, terms of service, terms of use, privacy policies, and more. The Click API lets you include this customizable solution in your Docusign integrations.\n\n**Additional Resources:**\n\n- [Full API Reference](https://developers.docusign.com/docs/web-forms-api/reference/)\n    \n- [Code Examples](https://developers.docusign.com/docs/click-api/how-to/)\n    \n- [Sample Apps showcasing Click API](https://developers.docusign.com/sample-apps/?filter=click)\n    \n- [SDKs](https://developers.docusign.com/docs/click-api/sdks/)\n    \n\n<video src=\"https://youtube.com/embed/YzOkSTL_SSA\" width=\"340\"></video>",
 		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
 		"_exporter_id": "36414416",
-		"_collection_link": "https://www.postman.com/docusign/workspace/docusign-s-public-workspace/collection/11590809-e11dc269-34af-45fb-b72a-38d5e9c35e9b?action=share&source=collection_link&creator=36414416"
+		"_collection_link": "https://www.postman.com/docusign/docusign-s-public-workspace/collection/oue1giy/docusign-click-api?action=share&source=collection_link&creator=36414416"
 	},
 	"item": [
 		{
